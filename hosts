@@ -1,1 +1,4 @@
-laptop_1                        ansible_host=       ansible_user=        ansible_password=    ansible_connection=ssh  ansible_shell_type=powershell   ansible_ssh_extra_args='-o StrictHostKeyChecking=no'
+[laptops]
+laptop_1                        ansible_host= 192.168.154.128     ansible_user= firefox_usr       ansible_password=    ansible_connection=ssh  ansible_shell_type=powershell   ansible_ssh_extra_args='-o StrictHostKeyChecking=no'
+laptop_2                        ansible_host= 192.168.154.129     ansible_user= firefox_usr       ansible_password=    ansible_connection=ssh  ansible_shell_type=powershell   ansible_ssh_extra_args='-o StrictHostKeyChecking=no'
+
