@@ -41,10 +41,4 @@ Por ultimo situate en la carpeta **playbooks** y ejecuta el siguiente comando pa
 ansible-playbook -i ../hosts laptops.yaml
 ```
 
-## Link de video como instalar Ansible en Windows
 
-https://youtu.be/7zc_lHFtttc
-
-## Link de video como instalar varios programas en varias pc al mismo tiempo con ansible
-
-https://youtu.be/eQObVrEy13c
